@@ -1,4 +1,5 @@
 ## Github Practice
+Betty Li
 ### Link to the article:
 [The pros and cons of using GitHub Copilot for software development [survey results]](https://www.future-processing.com/blog/the-pros-and-cons-of-using-github-copilot-for-software-development-survey-results/#what-is-github-copilot)
 
