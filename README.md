@@ -5,3 +5,7 @@ Betty Li
 
 ### Thoughts:
 This article provides a introduction to Copilot and the experience of software developers using it. It mainly covers the pros and cons of using Copilot along with programming, and the specific asepects that programmers found it helpful or annoying. It allows me to critically think about how to leverage AI efficiently in programming - I can make use of its syntax check and autocompletion to avoid being trapped in the details, but it's important that I stil have comprehensive understanding of the whole project and logic.
+
+
+#### Alessandro's comments:
+The article raised some interesting points about Copilot by some real devs. I thought it was interesting that some devs reported that the quality of code produced by Copilot wasn't the same across languages. Another developer had reported that Copilot wasn't capable of producing code for "difficul" tasks. In my opinion, the inefficiency of Copilot and similar tools are going to be smoothed out over time. While I'm unsure of what that might implicate, for now it seems like Copilot can't replace software developrs entirely.
